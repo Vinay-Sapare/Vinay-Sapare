@@ -5,6 +5,7 @@
 I currently working in ReNew as a Engineer
 
 - **Programming/Scripting Language:** Python, PySpark, SQL
+- **Data Streaming:** Apache Kafka
 - **Database:** MS SQL Server, MySQL, PostgreSQL
 - **Data Warehouse:** Snowflake, Amazon Redshift, Azure Synapse Analytics, Hive
 - **Bigdata Frameworks & Tools:** Hadoop, Spark, Databricks, ETL
