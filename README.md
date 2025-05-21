@@ -17,4 +17,4 @@ I currently working in ReNew as a Engineer
 - ### Find me 
 [![dev.to badge](https://img.shields.io/badge/linkedin-VinaySapare-%1500a7128?style=flat&logo=linkedin)](https://www.linkedin.com/in/vinay-kumar-sapare-7ba1002b0/)
 - 👨‍💻 All of my projects are available  [here](https://github.com/Vinay-Sapare?tab=repositories)
-- 📫 How to reach me:  [vinaykumar.sapare@gmail.com](mailto:vinaykumar.sapare@gmail.com)
+- 📫 How to reach me:  [saparevinaymech.963@gmail.com](mailto:saparevinaymech.963@gmail.com)
